@@ -14,7 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I learn Java at [Job4j](https://job4j.ru/)
--
+<b>About me</b>
+- I learn Java at [Job4j](https://job4j.ru/):coffee:
+- I like programming and network technologies:computer:
+- I'm currently learning Microservices and Kubernetes:muscle:
+
+---  
 <b>Core technologies:</b>  
-![Java[(https://img.shields.io/badge/java-%3E%3D%208-orange)
+
+>![Java](https://img.shields.io/badge/java-%3E%3D%208-orange)
+![Spring](https://img.shields.io/badge/Spring-%3E%3D%20%205.0-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%20%205.0-yellow)
+![Maven](https://img.shields.io/badge/Maven-3-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
+![MySQL](https://img.shields.io/badge/MySQL-%3E%3D%205-blue)
+
