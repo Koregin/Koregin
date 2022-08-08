@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 My name is Evgeny. Welcome! :v:
 
 <!--
 **Koregin/Koregin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I learn Java at [Job4j](https://job4j.ru/)
+-
+<b>Core technologies:</b>  
+![Java[(https://img.shields.io/badge/java-%3E%3D%208-orange)
