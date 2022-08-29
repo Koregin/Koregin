@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 10. ![Collect stat from Cisco](https://github.com/Koregin/stat_collector)  
 11. ![Forum using Spring](https://github.com/Koregin/job4j_forum)
 
+<b>My test projects:</b>
+1. ![Render ferma](https://github.com/Koregin/render_ferma)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Koregin&hide=stars,prs,issues,contribs)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koregin&layout=compact)](https://github.com/Koregin/github-readme-stats)
