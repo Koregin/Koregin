@@ -45,5 +45,9 @@ Here are some ideas to get you started:
 <b>My test projects:</b>
 1. ![Render ferma](https://github.com/Koregin/render_ferma)
 
+<b>My working projects</b>
+1. ![Stat collector](https://github.com/Koregin/stat_collector)
+2. ![IGMP filer updater](https://github.com/Koregin/igmp_filter_update)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Koregin&hide=stars,prs,issues,contribs)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koregin&layout=compact)](https://github.com/Koregin/github-readme-stats)
