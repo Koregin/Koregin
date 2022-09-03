@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <b>About me</b>
-- I learn Java at [Job4j](https://job4j.ru/):coffee:
+- I learn Java every day and search offer for job:coffee:
 - I like programming and network technologies:computer:
 - I'm currently learning Microservices and Kubernetes:muscle:
 
