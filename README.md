@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <b>My test projects:</b>
 1. ![Render ferma](https://github.com/Koregin/render_ferma)
+2. ![Calculator](https://github.com/Koregin/calc)
 
 <b>My working projects</b>
 1. ![Stat collector](https://github.com/Koregin/stat_collector)
